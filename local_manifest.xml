@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/whyred" name="spydermahn1234/device_xiaomi_whyred.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/sdm660-common" name="spydermahn1234/device_xiaomi_sdm660-common.git" remote="github" revision="twelve" />
  <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
  <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
  
